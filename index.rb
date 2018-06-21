@@ -7,6 +7,9 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
+  ingredients ==
+  puts "True"
+ingredients
   # your code here!
 end
 
